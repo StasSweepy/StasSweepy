@@ -1,16 +1,29 @@
 ### Hi there 👋
 
-<!--
-**StasSweepy/StasSweepy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Stas Petrenko - Trainee DevOps Engineer
 
-Here are some ideas to get you started:
+Professional Summary:
+I aspire to develop my career in the field of DevOps, possessing foundational knowledge and experience with automation and containerization tools.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Technical Skills:
+
+Docker
+
+Kubernetes
+
+Terraform
+
+Projects:
+
+### Certifications:
+
+In process
+
+### Contact Information:
+
+Email: petrenko.stanislavit@gmail.com
+
+Telegram: [@stas_sweepy](https://t.me/stas_sweepy)
+
+### Personal Qualities and Interests:
+Commitment to self-improvement, responsibility, interest in automation and process optimization.
